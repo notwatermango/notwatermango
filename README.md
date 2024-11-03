@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Danzel</h2>
-<p>An aspiring software engineer. Dedicating my life into coding just like Eren.</p>
+<p>An aspiring software engineer. Continuous learning.</p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -35,8 +35,7 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notwatermango&"
-    alt="notwatermango" /></p>
+<p><img src="https://streak-stats.demolab.com?user=notwatermango&theme=react" alt="GitHub Streak" /></p>
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=notwatermango&label=Profile%20views&color=0e75b6&style=flat"
